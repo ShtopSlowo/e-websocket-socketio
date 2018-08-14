@@ -4,5 +4,11 @@ Example based on The Net Ninja video course about websockets.
 Link on playlist: https://www.youtube.com/watch?v=vQjiN8Qgs3c&list=PL4cUxeGkcC9i4V-_ZVwLmOusj8YAUhj_9
 
 ### Commands
-**```git clone https://github.com/ShtopSlowo/e-websocket-socketio.git```** - clone repo  
-**```npm start```** - start server  
+**clone repo:**
+```javascript
+git clone https://github.com/ShtopSlowo/e-websocket-socketio.git
+```
+**start server:** 
+```javascript
+npm start
+```
